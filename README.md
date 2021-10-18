@@ -4,7 +4,7 @@
 ![fig](PERTCPM.jpg "PERT/CPM圖")
 
 # 甘特圖
-![fig](gantt.png "甘特圖")
+![fig](gant.png "甘特圖")
 
 
 # 關鍵路徑
